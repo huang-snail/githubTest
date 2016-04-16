@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<externalcommands>
+<externalcommand enable="true" inFileExtension=".css"/>
+<externalcommand enable="true" inFileExtension=".coffee"/>
+<externalcommand enable="true" inFileExtension=".haml"/>
+<externalcommand enable="true" inFileExtension=".js"/>
+<externalcommand enable="true" inFileExtension=".less"/>
+<externalcommand enable="true" inFileExtension=".sass,.scss"/>
+</externalcommands>

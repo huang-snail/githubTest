@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="com.aptana.feature.rcp:6.1.3.201507202206"/>
+		<item value="com.aptana.feature.studio:6.1.3.201507202206"/>
+		<item value="com.aptana.feature:6.1.3.201507202206"/>
+		<item value="io.emmet.eclipse:1.0.0.201303162055"/>
+		<item value="org.eclipse.epp.mpc:1.1.1.I20110907-0947"/>
+		<item value="org.eclipse.help:1.3.0.v20110530-0844-7i7uFFmFFl8nvqbDpEqTvx"/>
+		<item value="org.eclipse.platform:3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q"/>
+		<item value="org.eclipse.rcp:3.7.2.v20120120-1424-9DB5FmnFq5JCf1UA38R-kz0S0272"/>
+		<item value="org.radrails.rails:6.1.3.201507202206"/>
+	</list>
+	<section name="com.pandora.projects.ui.page.NewWebProjectComposite">
+		<item value="/Huang-proj/华康-0709/huang-项目/阿贝行/vote" key="OUTSIDE_LOCATION"/>
+	</section>
+</section>
